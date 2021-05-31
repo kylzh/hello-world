@@ -1,2 +1,4 @@
 # hello-world
-Hello world text guide
+Hello world 
+
+My name is Kayla Zhu, and I like Python and SQL.
